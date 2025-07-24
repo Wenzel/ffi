@@ -20,7 +20,7 @@ use darling::{
 };
 use proc_macro::TokenStream;
 use proc_macro2::TokenStream as TokenStream2;
-use proc_macro_error::{abort, proc_macro_error};
+use proc_macro_error2::{abort, proc_macro_error};
 use quote::{format_ident, quote};
 use std::collections::HashMap;
 use syn::{
