@@ -1,4 +1,6 @@
-# FFI
+# FFI2
+
+Note: fork of unmaintained ffi crate
 
 This crate helps expose Rust code via FFI to other languages, particularly C, by
 providing an attribute `#[ffi]` which automatically implements call forwarding from

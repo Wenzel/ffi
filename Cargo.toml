@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 [package]
-name = "ffi"
+name = "ffi2"
 description = "Macro for routing C FFI callbacks to struct methods"
 edition = "2021"
 homepage = "https://github.com/novafacing/ffi"
@@ -10,7 +10,7 @@ keywords = ["ffi", "macro", "callback"]
 license = "Apache-2.0"
 publish = true
 readme = "README.md"
-version = "0.1.1"
+version = "0.1.0"
 
 
 [lib]
